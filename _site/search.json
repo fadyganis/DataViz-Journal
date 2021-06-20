@@ -1,0 +1,19 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "DataViz Makeover",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-06-20T19:14:54+08:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Data Visualization Journal",
+      "author": [],
+      "contents": "\r\nWelcome to the site. This blog is the materialization of my blood, sweat, and tears in my efforts to visualize data.\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-06-20T12:09:35+08:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}

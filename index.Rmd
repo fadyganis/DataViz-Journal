@@ -1,0 +1,10 @@
+---
+title: "Data Visualization Journal"
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Welcome to the site. This blog is the materialization of my blood, sweat, and tears in my efforts to visualize data.

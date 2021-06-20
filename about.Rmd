@@ -1,0 +1,12 @@
+---
+title: "DataViz Makeover"
+site: distill::distill_website
+listing:
+  posts:
+    - 2021-05-29-dataviz-makeover-1
+    - 2021-06-20-dataviz-makeover-2
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
