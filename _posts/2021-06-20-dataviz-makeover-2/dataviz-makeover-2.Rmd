@@ -78,7 +78,7 @@ knitr::include_graphics("orisketch/sketch.jpg")
 
 <h2> Proposed Visualization </h2>
 
-```{r, echo=FALSE, out.width="500",out.height="650", fig.cap="sketch of improvement"}
+```{r, echo=FALSE, out.width="800",out.height="650", fig.cap="sketch of improvement"}
 knitr::include_graphics("orisketch/final.png")
 ```
 
