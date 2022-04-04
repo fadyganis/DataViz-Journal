@@ -1,10 +1,45 @@
 ---
-title: "Data Visualization Journal"
+title: "About Me"
 site: distill::distill_website
+theme: theme.css
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Welcome to the site. This blog is the materialization of my blood, sweat, and tears in my efforts to visualize data.
+ 
+<h2> Brief Summary </h2>
+<p>
+I am a student currently finishing up my master's degree in analytics from Singapore Management University. I have recently finished my last term this april and am working on filing for graduation.
+</p>
+
+<p>
+Over the course of this degree, i have learned more about what it means to be an analyst. I have also started seeing where my interests lies, and what i can do with data. However, i also learned that there is still more i need to learn.
+</p>
+<p>
+With that in mind, this website was then created as a way for me to document and present my endeavors in continuing to learn data in an easy to access manner.
+</p>
+
+<h2> Interests & Skills </h3>
+<h3> Interests </h3>
+<p>
+- Data Analytics
+- Data Visualization
+- Demand Forecasting & Inventory Management
+- NLP
+</p>
+
+<h3> Skills </h3>
+<h4> Technical Skills </h4>
+<p>
+- Coding and Statistical Analysis   : Python, R, SAS JMP Pro
+- Data Visualization                : Tableau, Microsoft Power BI
+</p>
+<h4> Soft Skills </h4>
+<p>
+- Resourceful
+- Fast Learner
+- Problem-Solver
+- Teamwork
+</p>

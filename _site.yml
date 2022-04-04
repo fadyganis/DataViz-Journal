@@ -4,15 +4,21 @@ description: |
   This website is created as a mean to show work i have done in data visualization
 output_dir: "_site"
 navbar:
+  left:
+    - icon: fa-regular fa-envelope
+      href: "mailto:fady.ganis.fg@gmail.com"
+    - icon: fa-brands fa-linkedin
+      href: "https://www.linkedin.com/in/fadyganis/"
+    - icon: fa-brands fa-github
+      href: "https://github.com/fadyganis"
   right:
-    - text: DataViz Makeover
+    - text: Data Visualization Endeavors
       href: about.html
+    
       
-    - text: Assignments (coming soon)
-      href:
-      
-    - text: R Resources
-      href: "https://isss608.netlify.app/r"
     
 
-output: distill::distill_article
+output: 
+  distill::distill_article:
+  
+

@@ -5,14 +5,14 @@
       "title": "DataViz Makeover",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-06-20T19:14:54+08:00"
+      "last_modified": "2022-04-04T13:39:57+08:00"
     },
     {
       "path": "index.html",
-      "title": "Data Visualization Journal",
+      "title": "About Me",
       "author": [],
-      "contents": "\r\nWelcome to the site. This blog is the materialization of my blood, sweat, and tears in my efforts to visualize data.\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-06-20T12:09:35+08:00"
+      "contents": "\r\n\r\nBrief Summary\r\n\r\n\r\nI am a student currently finishing up my master’s degree in analytics from Singapore Management University. I have recently finished my last term this april and am working on filing for graduation.\r\n\r\n\r\nOver the course of this degree, i have learned more about what it means to be an analyst. I have also started seeing where my interests lies, and what i can do with data. However, i also learned that there is still more i need to learn.\r\n\r\n\r\nWith that in mind, this website was then created as a way for me to document and present my endeavors in continuing to learn data in an easy to access manner.\r\n\r\n\r\nInterests & Skills\r\n\r\n\r\nInterests\r\n\r\n\r\nData Analytics\r\nData Visualization\r\nDemand Forecasting & Inventory Management\r\nNLP\r\n\r\nSkills\r\n\r\n\r\nTechnical Skills\r\n\r\n\r\nCoding and Statistical Analysis : Python, R, SAS JMP Pro\r\nData Visualization : Tableau, Microsoft Power BI\r\n\r\nSoft Skills\r\n\r\n\r\nResourceful\r\nFast Learner\r\nProblem-Solver\r\nTeamwork\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-04-04T15:11:07+08:00"
     }
   ],
   "collections": ["posts/posts.json"]
