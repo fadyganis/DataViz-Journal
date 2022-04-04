@@ -12,7 +12,7 @@ navbar:
     - icon: fa-brands fa-github
       href: "https://github.com/fadyganis"
   right:
-    - text: Data Visualization Endeavors
+    - text: Data Visualizations
       href: about.html
     
       
