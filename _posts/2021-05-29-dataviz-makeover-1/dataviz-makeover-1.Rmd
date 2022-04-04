@@ -1,7 +1,7 @@
 ---
 title: "DataViz Makeover 1"
 description: |
-  Given a graph, this article will cover the critiques concerning said graphs, plans on how to improve visualization, and steps to create the sketched improvement using Tableau Desktop.
+  Given a visualization between Singapore and its 6 merchandise trade partners, this article will try to give critiques of the original visualization, design a better alternative, and create the alternative using Tableau.
 author:
   - name: Ahmad Fady Ganis
 date: 05-29-2021
